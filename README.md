@@ -1,6 +1,3 @@
-# Monthly Employee Payslip Processor
-
----
 
 ### Prerequisites
 
